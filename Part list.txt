@@ -1,0 +1,14 @@
+x7 - Resistance 2k Ω
+x6 - Resistance 1k Ω
+x9 - Resistance 442 Ω
+x3 - Resistance 220 Ω
+x2 - Condensateur 22 pF
+x1 - Condensateur 10 μF
+x3 - Diodes 1N4148
+x1 - Transistor BC560C
+x1 - Trimmer 1K
+x1 - ATMEGA88-20PU
+x1 - Quartz 20 MHz
+x1 - Socket VGA femelle
+x1 - Socket RCA femelle
+x1 - Bornier a vis
