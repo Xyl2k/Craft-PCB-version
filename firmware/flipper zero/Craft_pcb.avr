@@ -1,0 +1,10 @@
+Filetype: Flipper Dump AVR
+Version: 1
+Chip name: ATmega88
+Signature: 1E 93 0A
+Lfuse: E7
+Hfuse: DF
+Efuse: F9
+Lock: FF
+Dump_flash: Craft_pcb_flash.hex
+Dump_eeprom: Craft_pcb_eeprom.hex
