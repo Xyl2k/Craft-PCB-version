@@ -1,4 +1,4 @@
-![Craft](https://cloud.githubusercontent.com/assets/8536299/8457995/d38aa342-2014-11e5-98a6-96a3d52c218e.png)
+![Craft](readme-image.jpg)
 
 # CRAFT AVR Demo — Custom PCB and 3D Enclosure
 
